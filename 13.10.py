@@ -108,11 +108,13 @@ for i in numbers:
     if num==i:
         counter+=1
 print(counter)'''
+
+num =int(input("введите число: "))
 while True:
     try:
-    num =int(input("введите число: "))
-    print("ошибка введите число")
-    break
-except:
-    print("введите число")
+        num =int(input("введите число: "))
+        print("ошибка введите число")
+        break
+    except:
+        print("введите число")
 print(num)
