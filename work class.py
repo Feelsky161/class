@@ -24,4 +24,4 @@ if 100<=number<=999
     print("yes" if "no" else )
 else:
     print("incorrect")
-'''
+"""
