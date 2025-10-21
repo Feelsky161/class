@@ -23,5 +23,4 @@ if 100<=number<=999
     elif n1 == n2: flag = type
     print("yes" if "no" else )
 else:
-    print("incorrect")
-"""
+    print("incorrect")'''
