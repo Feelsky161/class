@@ -1,7 +1,7 @@
 """count=int(input("введите число:  "))
 count = ()
 while count > 0:
-    print("123"), end=" "
+    print("123.txt"), end=" "
     count-=1
 """
 """a=0
